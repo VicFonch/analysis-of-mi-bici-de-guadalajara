@@ -1,4 +1,8 @@
-#Analysis of Mi Bici de Guadalajara
+# Analysis of Mi Bici de Guadalajara
+
+Desde inicios del milenio, la población en Latinoamérica ha tenido un crecimiento semejante a una exponencial. Esto genera problemas de aglomeración urbana, distribución de suelo y movilidad. Las metrópolis de Latinoamérica tienen retos difíciles. Sus problemas se ven reflejados en el tiempo y la distancia de traslado diarios que realiza cada habitante. El problema de transporte y movilidad urbana es uno de los factores más importantes para las administraciones, siendo un pilar fundamental en el desarrollo social y económico. La aplicación del principio de comodalidad plantea favorecer la promoción e implementación de distintas alternativas que satisfagan las necesidades de transporte, garanti-
+zando cobertura, conectividad, flujos continuos, seguridad y eficiencia. La congestión del tráfico en las grandes ciudades presenta graves problemas de
+movilidad. Entre las causas que crean esta congestión se encuentran la falta de planeación y la desarrollo en la infraestructura y la alta densidad poblacional. Frente a estos problemas en el transporte público, varias metrópolis de Latinoamérica han implementado el principio de comodalidad usando a la bicicleta como medio de transporte alternativo, que dependiendo de la implementación, puede llegar a ser más rápido, cómodo y seguro en comparación a los demás medios de transporte disponibles. Una correcta implementación de un sistema de bicicletas aporta a la disminución de la congestión del tráfico.
 
 ### Objetivos:
 
